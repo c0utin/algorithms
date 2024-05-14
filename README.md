@@ -6,6 +6,7 @@ List of algorithms:
 
   - Search
     - Linear Search ->  $O(n)$
+    - Binary Search -> $log(n)$
     
 List of Data Structures: 
   - Singly Linked List
