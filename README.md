@@ -3,6 +3,7 @@
 List of algorithms:
   - Sort
     - Insertion Sort -> $O(n²)$
+    - Bubble Sort -> $O(n²)$
 
   - Search
     - Linear Search ->  $O(n)$
