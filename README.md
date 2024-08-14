@@ -4,6 +4,8 @@ List of algorithms:
   - Sort
     - Insertion Sort -> $O(n²)$
     - Bubble Sort -> $O(n²)$
+    - Merge Sort -> $O(n log n)$
+
 
   - Search
     - Linear Search ->  $O(n)$
