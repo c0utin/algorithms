@@ -13,3 +13,5 @@ List of algorithms:
     
 List of Data Structures: 
   - Singly Linked List
+  - B-tree
+  - Stack
