@@ -15,3 +15,4 @@ List of Data Structures:
   - Singly Linked List
   - B-tree
   - Stack
+  - Queue
