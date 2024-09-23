@@ -16,3 +16,4 @@ List of Data Structures:
   - B-tree
   - Stack
   - Queue
+  - Hashmap 
