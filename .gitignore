@@ -1,5 +1,5 @@
 zig/zig-out/
-*core
+core.*
 zig-out/
 *.o
 *.exe
